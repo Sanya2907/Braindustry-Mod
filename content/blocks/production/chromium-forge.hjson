@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Chromium Forge
-description: This forge can smelt a Chromium from Metaglass and Titanium.
+description: This forge can smelt Chromium from Metaglass and Titanium.
 health: 220
 liquidCapacity: 0
 size: 3
